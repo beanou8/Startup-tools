@@ -24,3 +24,7 @@
 
 1. https://github.com/typicode/json-server
 2. https://github.com/typicode/lowdb
+
+**sprint** https://designsprintkit.withgoogle.com/
+
+**customer insights google* https://www.thinkwithgoogle.com
