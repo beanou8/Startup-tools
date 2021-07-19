@@ -6,7 +6,7 @@
 
 **Logo maker** www.namecheap.com/logo-maker/
 
-**Tailwind Ui components** www.tailwindui.com/
+**Tailwind CSS components** www.tailwindui.com/
 
 **Simple CI/CD** www.hostman.com
 
@@ -30,3 +30,5 @@
 **customer insights google* https://www.thinkwithgoogle.com
 
 **Make clean HTML5 from vue, react or angular** https://astro.build
+
+**Small print company based in Brno with beautiful prices and small MOQ** http://knihovnicka.cz
