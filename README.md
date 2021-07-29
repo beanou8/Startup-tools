@@ -32,3 +32,5 @@
 **Make clean HTML5 from vue, react or angular** https://astro.build
 
 **Small print company based in Brno with beautiful prices and small MOQ** http://knihovnicka.cz
+
+**Tailwind CSS visual builder** https://shuffle.dev/
