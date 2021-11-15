@@ -34,3 +34,5 @@
 **Small print company based in Brno with beautiful prices and small MOQ** http://knihovnicka.cz
 
 **Tailwind CSS visual builder** https://shuffle.dev/
+
+**Analytics that work like google analytics but they are pivate** https://plausible.io/
