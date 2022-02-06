@@ -36,3 +36,5 @@
 **Tailwind CSS visual builder** https://shuffle.dev/
 
 **Analytics that work like google analytics but they are pivate** https://plausible.io/
+
+**Become JS dev in 30 days** https://github.com/Asabeneh/30-Days-Of-JavaScript
