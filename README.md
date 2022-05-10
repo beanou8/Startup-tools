@@ -48,3 +48,7 @@ NOCODE
 **Draftbit** https://draftbit.com
 
 **Sheety - make REST API from google sheets** - https://sheety.co
+
+**FormKit - suuuper easy forms in Vue.js** - https://formkit.com
+
+**Tauri - secure and better electron alternative** - https://tauri.studio
